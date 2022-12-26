@@ -18,18 +18,24 @@ body {
     grid-column: 1/-1;
 }
 
-.nothing{
+h1 {
+    text-align: center;
+}
+
+.nothing {
 
     background-color: #222;
     padding: 20px;
     border-radius: 15px;
     border: 5px #BBB solid;
 }
-p{
+
+p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: beige;
     grid-column: 2;
 }
+
 .but {
     display: flex;
     justify-content: center;
